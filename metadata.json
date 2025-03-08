@@ -1,0 +1,7 @@
+{
+    "filename": {"S": "test.csv"},
+    "file_size_bytes": {"N": "1024"},
+    "row_count": {"N": "100"},
+    "column_count": {"N": "5"},
+    "upload_timestamp": {"S": "2025-03-08T12:34:56Z"}
+}
